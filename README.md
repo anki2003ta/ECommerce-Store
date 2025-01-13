@@ -88,4 +88,4 @@ A feature-rich *E-Commerce Website* designed to deliver a seamless shopping expe
 
 ## Project Links
 - [Project Repository](https://github.com/anki2003ta/ECommerce-Store)
-- [Live Demo](https://ecommercestore-slxc.onrender.com)
+- [Live Demo](https://ecommercestore-slxc.onrender.com/)
